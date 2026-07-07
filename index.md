@@ -1,5 +1,4 @@
-# 16220 
-# Robot Building Practices
+# 16220 Robot Building Practices
 
 ## CMU Robotics Institute, Fall 2027
 
